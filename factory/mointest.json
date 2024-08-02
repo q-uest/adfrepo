@@ -1,0 +1,9 @@
+{
+	"name": "mointest",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "38dca945-ab06-4561-9b4d-e19a944011bb",
+		"tenantId": "d3ade69c-ddd8-44dd-8079-df540aebdeb1"
+	}
+}
